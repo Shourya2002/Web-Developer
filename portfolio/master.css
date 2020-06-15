@@ -15,17 +15,15 @@
 
   body {
     text-align: center;
+  
+    background-color: lightgoldenrodyellow;
     /* set the background color here */
     /* set the text color to black here */
     /* set the font here */
     /* set the text alignment here */
    }
 
-   div{
-    height: 40px;
-    width: 100%;
-    background-color: navy;
-   }
+   
 
    img{
     padding: 10px;
@@ -34,5 +32,3 @@
     margin-right: auto;
     border: 2x solid black;
    }
-
-  
